@@ -1,0 +1,25 @@
+{
+  "source_sha": "b82ce5433257054c196d5f318d5e90b0a378c7eb",
+  "fonts_sha": "b076417b5880bd4154bd22f00695b1d28c6bea83",
+  "rustc": "rustc 1.99.1 (58cf8f9c3 2026-10-13)\nbinary: rustc\ncommit-hash: 58cf8f9c35b355199727627d07ae34a4e2846d67\ncommit-date: 2026-10-13\nhost: x86_64-unknown-linux-gnu\nrelease: 1.99.1\nLLVM version: 23.1.1\n",
+  "workflow_sha": "456e6f1a7fae86eed050b219b0d16c103b0b91f2",
+  "run_id": "41281025374",
+  "renderer": "repository native offscreen renderer; synthetic resources",
+  "browser_backend_e2e": false,
+  "images": [
+    {
+      "file": "lightcraft-default-b82ce543.png",
+      "width": 1440,
+      "height": 900,
+      "bytes": 173126,
+      "sha256": "7a84328f07d0c23fa4edc2e3ea6820a0dfb4fb784f06d1fcc7f55b9579cb676c"
+    },
+    {
+      "file": "lightcraft-provider-b82ce543.png",
+      "width": 1440,
+      "height": 900,
+      "bytes": 190253,
+      "sha256": "82e7ef6f85410a5e1249ceef6e30a96b9d26cfa92e8daadddef5601f8e457ba6"
+    }
+  ]
+}
